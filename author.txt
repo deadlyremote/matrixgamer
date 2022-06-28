@@ -1,0 +1,7 @@
+description Call of Duty 6 Map Pack (default+dlc+sp+other maps)
+comments COD6 All Maps
+author deadlyremote
+version 1.00
+filename COD6.qtmp
+id COD6_maps
+game callofduty4
